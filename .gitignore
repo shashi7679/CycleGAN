@@ -1,0 +1,12 @@
+/.ipynb_checkpoints/
+/Data/
+/__pycache__/
+/result/
+/wandb/
+/result/
+/saved_image/
+/saved_images/
+critich.pth.tar
+criticz.pth.tar
+genh.pth.tar
+genz.pth.tar
